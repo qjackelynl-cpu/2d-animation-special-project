@@ -41,9 +41,7 @@ Midsalip Campus**.
 
 ```text
 HTML
-CSS
 Web Development
 Information Systems
-Digital Design
 2D Animation
 Basic Programming<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=25&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=JACKELYN+L.+QUINO;ZDSPGC+MIDSALIP+CAMPUS;BSIS+STUDENT;ASPIRING+WEB+DEVELOPER;WELCOME+TO+MY+GITHUB+PROFILE!" />
