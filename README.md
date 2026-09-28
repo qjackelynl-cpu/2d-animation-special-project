@@ -47,3 +47,27 @@ A personal space where I can showcase my projects, learning progress, and progra
 ```text
 Learn → Practice → Build → Improve → Repeat
 ```
+I believe that every project is an opportunity to learn something new. 
+I am continuously working on improving my skills and gaining experience in technology.
+---
+## ■ My Goal
+> **"Keep learning, keep building, and never stop improving."**
+---
+## ■ Connect With Me
+<p align="center">
+<!-- Replace the # symbols with your real social-media links if you want them displayed. -->
+<a href="#">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="#">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="#">
+ <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+</p>
+---
+<div align="center">
+### ■ Thanks for visiting my profile! ■
+**Jackelyn L. Quino** 
+*BSIS Student | ZDSPGC – Midsalip Campus*</div>
